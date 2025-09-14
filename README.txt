@@ -1,11 +1,5 @@
-TITLE OF THE WORK:
-
-#LLM-Based Compatibility Evaluator
+LLM-Based Compatibility Evaluator
 AI-powered compatibility analysis from preferences, bios, chats, and pictures.
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ---
 
