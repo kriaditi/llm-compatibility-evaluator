@@ -1,0 +1,17 @@
+torch
+transformers
+pillow
+pytesseract
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
+textwrap3
+nltk
+tqdm
+jupyter
+notebook
+ollama

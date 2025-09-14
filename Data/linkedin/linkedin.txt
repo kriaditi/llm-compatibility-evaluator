@@ -1,0 +1,20 @@
+John Doe
+Software Engineer | IIT Bombay | Ex-Flipkart | AI/ML Enthusiast
+Location: Bangalore, India
+
+Experience:
+- Senior Software Engineer at FinTechX (2022–Present)
+   • Building scalable backend systems for payment platforms
+   • Working on NLP-powered fraud detection
+
+- Software Engineer at Flipkart (2019–2022)
+   • Designed distributed systems for e-commerce search
+   • Optimized infrastructure for 10M+ daily queries
+
+Education:
+- B.Tech, Computer Science – IIT Bombay (2015–2019)
+
+Skills:
+- Python, Java, C++
+- Machine Learning, NLP, Deep Learning
+- Cloud: AWS, GCP

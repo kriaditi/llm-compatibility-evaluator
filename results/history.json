@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-09-14_17-24-00",
+    "preferences": {
+      "preferences": {
+        "personality_traits": [
+          "tall",
+          "emotionally available",
+          "mature",
+          "witty",
+          "communicative",
+          "consistent",
+          "uses proper grammar"
+        ],
+        "intent": "long-term relationship or marriage",
+        "income_min": 0,
+        "food_preferences": "not important",
+        "substance_use": {
+          "smoking": "no",
+          "alcohol": "no",
+          "drugs": "no"
+        },
+        "picture_traits": [
+          "explorer vibe",
+          "travel pictures",
+          "food pictures",
+          "coffee enthusiast"
+        ]
+      }
+    },
+    "linkedin": "Experienced Software Engineer with a B.Tech in Computer Science from IIT Bombay. Currently working as a Senior Software Engineer at FinTechX, building scalable backend systems for payment platforms and NLP-powered fraud detection. Previously, served as a Software Engineer at Flipkart, where I designed distributed systems for e-commerce search and optimized infrastructure for 10M+ daily queries. Skilled in Python, Java, C++, Machine Learning, Natural Language Processing (NLP), Deep Learning, and cloud technologies like AWS and GCP. Located in Bangalore, India. AI/ML Enthusiast.",
+    "bio": "This user is an adventurous, fitness-oriented individual with a passion for food, particularly pasta. They enjoy spontaneous road trips, deep conversations, and a good cup of coffee. Their goal in dating is to find something meaningful beyond swipes.",
+    "chat_summary": " The conversation is casual, friendly and mature with a lighthearted tone. Both individuals express genuine concern for each other's wellbeing and engage in small talk about their days. They also acknowledge each other's strengths (Aditi's fitness consistency and Sam's outdoor activities) and share humor through a joke at the end. There is emotional clarity as Aditi mentions feeling drained from her day, but she responds positively to a distraction in the form of a joke.\n\n",
+    "notes": "He seems nice, I am liking the vibe which he is giving.",
+    "picture_insight": "- 1.jpg: a man with a backpack walking up a mountain \u2192 **\ud83d\uddfa\ufe0f Explorer**\n- 2.jpg: a man with glasses holding a cup of coffee \u2192 **\ud83e\ude9e Selfie-heavy**",
+    "report_file": "report_2025-09-14_17-24-00.md",
+    "output": " {\n      \"red_flags\": [],\n      \"compatibility_score\": 80,\n      \"match_breakdown\": {\n        \"tall\": null, // not available in the profile\n        \"emotionally_available\": 7,\n        \"caste_match\": null, // not applicable as per your preferences\n        \"income_match\": cannot_be_assessed, // income information is not available\n        \"mature\": 8,\n        \"witty\": 6,\n        \"communicative\": 9,\n        \"consistent\": 9,\n        \"uses_proper_grammar\": 10\n      },\n      \"verdict\": \"Proceed\",\n      \"comment\": \"The individual seems to align well with your preferences, displaying emotional availability, maturity, communication skills, and consistent engagement. While the wit level could be improved, it's still within an acceptable range. The shared passion for travel, coffee, and deep conversations is a good sign for potential compatibility in a long-term relationship.\"\n    }\n\n"
+  }
+]

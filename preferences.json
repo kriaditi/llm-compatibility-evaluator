@@ -1,0 +1,14 @@
+{
+  "preferences": {
+    "personality_traits": ["tall", "emotionally available", "mature", "witty", "communicative", "consistent", "uses proper grammar"],
+    "intent": "long-term relationship or marriage",
+    "income_min": 0,
+    "food_preferences": "not important",
+    "substance_use": {
+      "smoking": "no",
+      "alcohol": "no",
+      "drugs": "no"
+    },
+    "picture_traits": ["explorer vibe", "travel pictures", "food pictures", "coffee enthusiast"]
+  }
+}
